@@ -79,14 +79,20 @@ The project includes an interactive Power BI dashboard featuring:
 
 
 ## Repository Structure
-data/
-docs/
-notebooks/
-outputs/
-powerbi/
-.gitignore
-README.md
-requirements.txt
+
+```text
+CUSTOMER-CHURN-UTILITY-PROJECT/
+├── data/
+├── docs/
+├── notebooks/
+├── outputs/
+├── powerbi/
+│   ├── customer_churn_dashboard.pbix
+│   └── dashboard.png
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
 
 ## Author
