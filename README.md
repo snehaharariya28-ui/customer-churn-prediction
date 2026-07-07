@@ -63,6 +63,7 @@ Balanced Logistic Regression was selected as the final model because it signific
 
 
 ## Dashboard
+
 The project includes an interactive Power BI dashboard featuring:
 
 * Total Customers
@@ -71,6 +72,10 @@ The project includes an interactive Power BI dashboard featuring:
 * Churn Distribution
 * Churn by Sales Channel
 * Customer Tenure vs Churn
+
+<p align="center">
+  <img src="powerbi/dashboard.png" alt="Customer Churn Dashboard" width="900">
+</p>
 
 
 ## Repository Structure
